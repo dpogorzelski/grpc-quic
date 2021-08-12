@@ -2,30 +2,13 @@
 
 The Go language implementation of gRPC over QUIC.
 
-* gRPC-Go + QUIC-Go
-  * https://github.com/grpc/grpc-go
-  * https://github.com/lucas-clemente/quic-go
-* Improved 'github.com/gfanton/grpc-quic'
-
-## Prerequisites
-
-- **[Go][]**: any one of the **three latest major** [releases][go-releases].
-
 ## Installation
 
-With [Go module][] support (Go 1.11+), simply add the following import
-
 ```go
-import "github.com/sssgun/grpc-quic"
+import "github.com/dpogorzelski/grpc-quic"
 ```
 
-## Usage
-* gRPC-Go + QUIC-Go
-  * https://github.com/grpc/grpc-go/tree/master/examples/helloworld
-  * https://github.com/lucas-clemente/quic-go/tree/master/example
+## License
 
-### As a server
-See the example server.
-
-### As a client
-See the example client.
+[MPL-2.0](LICENSE)
+Original code is licensed under the MIT license (Copyright (c) 2021 gun) and available at [link](https://github.com/speedrunsh/grpc-quic/tree/14a8a2b8af7c1ba455d195fae8aba66999c04788)
