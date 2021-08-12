@@ -5,7 +5,7 @@ The Go language implementation of gRPC over QUIC.
 ## Installation
 
 ```go
-import "github.com/dpogorzelski/grpc-quic"
+import "github.com/speedrunsh/grpc-quic"
 ```
 
 ## License

@@ -1,4 +1,4 @@
-module github.com/dpogorzelski/grpc-quic
+module github.com/speedrunsh/grpc-quic
 
 go 1.17
 
