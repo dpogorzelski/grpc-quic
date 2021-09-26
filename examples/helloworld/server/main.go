@@ -10,9 +10,9 @@ import (
 	"log"
 	"math/big"
 
-	qnet "github.com/dpogorzelski/grpc-quic"
-	pb "github.com/dpogorzelski/grpc-quic/examples/helloworld/helloworld"
 	"github.com/lucas-clemente/quic-go"
+	qnet "github.com/speedrunsh/grpc-quic"
+	pb "github.com/speedrunsh/grpc-quic/examples/helloworld/helloworld"
 	"google.golang.org/grpc"
 )
 
